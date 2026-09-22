@@ -1,0 +1,6 @@
+streamlit==1.39.0
+crewai==0.86.0
+crewai-tools==0.17.0
+groq==0.11.0
+pypdf==5.1.0
+langchain-groq==0.2.0
